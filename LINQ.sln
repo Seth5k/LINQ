@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{CB072E6F-1937-4E07-B1E9-201C26BD57F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqArreglo02", "LinqArreglo02\LinqArreglo02.csproj", "{F6363165-377B-40D6-A05E-05303F6AC2CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqMetodo03", "LinqMetodo03\LinqMetodo03.csproj", "{41B69368-2791-4D76-A2EC-0D06EB9593BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqClases04", "LinqClases04\LinqClases04.csproj", "{61658924-8E49-406C-8AF5-AB1BE710A595}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq05ArrayListTips", "Linq05ArrayListTips\Linq05ArrayListTips.csproj", "{29C59DF3-0E16-4B4F-858E-2D657EBEBD7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq06Projeccion", "Linq06Projeccion\Linq06Projeccion.csproj", "{8CB35235-FA21-4E0B-8648-EF67BFE2E4DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB072E6F-1937-4E07-B1E9-201C26BD57F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB072E6F-1937-4E07-B1E9-201C26BD57F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB072E6F-1937-4E07-B1E9-201C26BD57F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB072E6F-1937-4E07-B1E9-201C26BD57F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6363165-377B-40D6-A05E-05303F6AC2CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6363165-377B-40D6-A05E-05303F6AC2CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6363165-377B-40D6-A05E-05303F6AC2CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6363165-377B-40D6-A05E-05303F6AC2CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41B69368-2791-4D76-A2EC-0D06EB9593BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41B69368-2791-4D76-A2EC-0D06EB9593BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41B69368-2791-4D76-A2EC-0D06EB9593BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41B69368-2791-4D76-A2EC-0D06EB9593BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61658924-8E49-406C-8AF5-AB1BE710A595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61658924-8E49-406C-8AF5-AB1BE710A595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61658924-8E49-406C-8AF5-AB1BE710A595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61658924-8E49-406C-8AF5-AB1BE710A595}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29C59DF3-0E16-4B4F-858E-2D657EBEBD7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C59DF3-0E16-4B4F-858E-2D657EBEBD7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C59DF3-0E16-4B4F-858E-2D657EBEBD7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C59DF3-0E16-4B4F-858E-2D657EBEBD7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CB35235-FA21-4E0B-8648-EF67BFE2E4DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CB35235-FA21-4E0B-8648-EF67BFE2E4DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CB35235-FA21-4E0B-8648-EF67BFE2E4DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CB35235-FA21-4E0B-8648-EF67BFE2E4DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F13377E-3E50-49CA-9E7F-61572897B437}
+	EndGlobalSection
+EndGlobal
